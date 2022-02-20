@@ -26,5 +26,5 @@ I am Your boyfriend, or Wxx, A front-end learner!!!
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjiu)](https://github.com/wjiu/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wxxdsg)](https://github.com/wjiu/github-readme-stats)
 
