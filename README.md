@@ -6,7 +6,7 @@ I am Your boyfriend, or Wxx, A front-end learner!!!
 
 - Blog: [Blog Portal](https://github.com/wxxdsg/blog)
 
-- Email: sjhp59@qq.com
+- Email:  wxx1324657@outlook.com
 
 - QQ：[Contact me with QQ](http://wpa.qq.com/msgrd?v=3&uin=2175295091&site=qq&menu=yes)
 
